@@ -242,14 +242,14 @@
 }
 .ou1{
     background-color: rgb(255, 255, 255);
-    width: 250px;
+    width: 350px;
     margin-top: 430px;
     margin-left: 100px;
     transition: 1s;
 }
 .ou1:hover{
     background-color: rgb(255, 255, 255);
-    width: 250px;
+    width: 350px;
     margin-top: 430px;
     margin-left: 100px;
     box-shadow: 5px 5px 10px;
@@ -258,35 +258,35 @@
 .buil{
     font-size: 25px;
     font-weight:900;
-    margin-left: 20px;
+    margin-left: 70px;
 }
 .ou1 img{
-    margin-left: 90px;
+    margin-left: 140px;
     margin-top: 35px;
 }
 .qwe{
     font-size: 15px;
     font-weight:800;
     margin-top: -22px;
-    margin-left: -50px;
+    margin-left: -10px;
 }
 .rty{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -57px;
+    margin-left: -17px;
 }
 .uio{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -30px;
+    margin-left: 15px;
 }
 .pas{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -50px;
+    margin-left: -10px;
 }
 
 
@@ -297,14 +297,14 @@
 
 .ou2{
     background-color: rgb(255, 255, 255);
-    width: 300px;
+    width: 350px;
     margin-top: -256px;
     margin-left: 560px;
     transition: 1s;
 }
 .ou2:hover{
     background-color: rgb(255, 255, 255);
-    width: 300px;
+    width: 350px;
     margin-top: -256px;
     margin-left: 560px;
     box-shadow: 5px 5px 10px;
@@ -313,35 +313,35 @@
 .pain{
     font-size: 25px;
     font-weight:900;
-    margin-left: 30px;
+    margin-left: 60px;
 }
 .ou2 img{
-    margin-left: 120px;
+    margin-left: 140px;
     margin-top: 35px;
 }
 .fgh{
     font-size: 15px;
     font-weight:800;
     margin-top: -22px;
-    margin-left: -20px;
+    margin-left: 10px;
 }
 .jkl{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -27px;
+    margin-left: -0px;
 }
 .zxc{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: 2px;
+    margin-left: 35px;
 }
 .vbn{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -20px;
+    margin-left: 10px;
 }
 
 
@@ -349,14 +349,14 @@
 
 .ou3{
     background-color: rgb(255, 255, 255);
-    width: 300px;
+    width: 350px;
     margin-top: -256px;
     margin-left: 1049px;
     transition: 1s;
 }
 .ou3:hover{
     background-color: rgb(255, 255, 255);
-    width: 300px;
+    width: 350px;
     margin-top: -256px;
     margin-left: 1049px;
     box-shadow: 5px 5px 10px;
@@ -365,35 +365,35 @@
 .repa{
     font-size: 25px;
     font-weight:900;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 .ou3 img{
-    margin-left: 120px;
+    margin-left: 140px;
     margin-top: 35px;
 }
 .mqw{
     font-size: 15px;
     font-weight:800;
     margin-top: -22px;
-    margin-left: -20px;
+    margin-left: 10px;
 }
 .ert{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -27px;
+    margin-left: 3px;
 }
 .yui{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: 2px;
+    margin-left: 35px;
 }
 .opa{
     font-size: 15px;
     font-weight:800;
     margin-top: -33px;
-    margin-left: -20px;
+    margin-left: 10px;
 }
 .ourl1{
     font-size: 40px;
@@ -1200,6 +1200,7 @@
     background-color: #222;
     padding: 100px 200px;
     height: 300px;
+    width: 1100px;
     position: absolute;
     top: 4490px;
 }
